@@ -1,0 +1,1 @@
+{"uuid":"d7aec51b-1f37-4be5-89db-07d95445ced3","name":"Group Run","children":["8e6dc273-946c-4a46-b262-17ba0104c2b8"],"befores":[{"name":"beforeSuit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1717269428537,"stop":1717269428540}],"afters":[],"start":1717269428501,"stop":1717269432092}
